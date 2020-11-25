@@ -6,6 +6,10 @@
   <a href="https://www.gemography.com?utm_source=smakosh" style="max-width: 48%;width: 100%">
     <img src="https://github.com/smakosh/smakosh/blob/master/gemography.svg" width="200px" />
   </a>
+  
+  <a href="https://www.helsinki.fi/en/faculty-of-science?utm_source=smakosh" style="max-width: 48%;width: 100%">
+    <img src="https://github.com/smakosh/smakosh/blob/master/KumpulaScience.jpg" width="200px" />
+  </a>
 
   <a href="https://prisma.io/?utm_source=smakosh" style="max-width: 48%;width: 100%">
     <img src="https://github.com/smakosh/smakosh/blob/master/prisma-logo.png" width="200px" />
