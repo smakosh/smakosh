@@ -1,19 +1,25 @@
-<div style="display: flex;align-items: center;justify-content: space-between;flex-wrap: wrap;">
-  <a href="https://vercel.com?utm_source=smakosh" style="max-width: 48%;width: 100%">
-    <img src="https://github.com/smakosh/smakosh/blob/master/vercel.svg" width="200px" />
-  </a>
+- 🔭 I’m currently working on [Ontwik](https://ontwik-dev.com)
 
-  <a href="https://www.gemography.com?utm_source=smakosh" style="max-width: 48%;width: 100%">
-    <img src="https://github.com/smakosh/smakosh/blob/master/gemography.svg" width="200px" />
-  </a>
-  
-  <a href="https://www.helsinki.fi/en/faculty-of-science?utm_source=smakosh" style="max-width: 48%;width: 100%">
-    <img src="https://github.com/smakosh/smakosh/blob/master/KumpulaScience.jpg" width="200px" />
-  </a>
+- 👨‍💻 All of my projects are available at [https://smakosh.com](https://smakosh.com)
 
-  <a href="https://prisma.io/?utm_source=smakosh" style="max-width: 48%;width: 100%">
-    <img src="https://github.com/smakosh/smakosh/blob/master/prisma-logo.png" width="200px" />
-  </a>
-</div>
+- 📝 I regularly write articles on [https://smakosh.com/blog](https://smakosh.com/blog)
 
-### Want your company's logo here ☝️? [sponsor me!](https://github.com/sponsors/smakosh)
+- 📫 How to reach me **hello@smakosh.com**
+
+<a href="https://vercel.com?utm_source=smakosh">
+  <img src="https://github.com/smakosh/smakosh/blob/master/vercel.svg" width="200px" />
+</a>
+
+ <a href="https://www.gemography.com?utm_source=smakosh">
+  <img src="https://github.com/smakosh/smakosh/blob/master/gemography.svg" width="200px" />
+</a>
+
+<a href="https://www.helsinki.fi/en/faculty-of-science?utm_source=smakosh">
+  <img src="https://github.com/smakosh/smakosh/blob/master/KumpulaScience.jpg" width="100px" />
+</a>
+
+<a href="https://prisma.io/?utm_source=smakosh">
+  <img src="https://github.com/smakosh/smakosh/blob/master/prisma-logo.png" width="200px" />
+</a>
+
+### Want your company's logo here for a year ☝️? [sponsor me!](https://github.com/sponsors/smakosh)
