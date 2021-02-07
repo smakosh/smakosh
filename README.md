@@ -10,10 +10,6 @@
   <img src="https://github.com/smakosh/smakosh/blob/master/vercel.svg" width="200px" />
 </a>
 
- <a href="https://www.gemography.com?utm_source=smakosh">
-  <img src="https://github.com/smakosh/smakosh/blob/master/gemography.svg" width="200px" />
-</a>
-
 <a href="https://www.helsinki.fi/en/faculty-of-science?utm_source=smakosh">
   <img src="https://github.com/smakosh/smakosh/blob/master/KumpulaScience.jpg" width="100px" />
 </a>
