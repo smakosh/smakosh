@@ -8,3 +8,5 @@
     <a href="https://github.com/sponsors/smakosh">Sponsor me</a>
   </samp>
 </p>
+
+[![Powered by DevPass](https://devpass.llmgateway.io/devpass-badge.svg)](https://devpass.llmgateway.io/profiles/smakosh)
